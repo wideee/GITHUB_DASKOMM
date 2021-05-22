@@ -37,6 +37,8 @@
     <p>Nama : Made Arya Wijaya Kusuma </p>
     <p>NBI  : 1461900003 </p>
     <p>Instagram : <a href="url">https://www.instagram.com/msmd.exe/</a>
+    <p> Email : wmadearya@gmail.com </p>
+    <img src="https://scontent-sin6-3.xx.fbcdn.net/v/t1.6435-9/174538784_1865240156984391_8861545188793476675_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=5mooA58LHVQAX-IXVly&_nc_ht=scontent-sin6-3.xx&oh=39a4581bcbb4e752ed8ead3022f05bb5&oe=60CDED42" >
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
